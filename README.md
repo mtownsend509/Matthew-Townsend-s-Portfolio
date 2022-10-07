@@ -5,7 +5,7 @@
 ## Description
 
 
-This project allows the bootcamp student to practice using semantic HTML elements to improve code readability, as well as letting the student get hands on experience refactoring CSS code to make it more adherant to best practices.
+This project allows the bootcamp student to maintain an online portfolio to show any web development projects that they create during and after the coding bootcamp.
 
 
 ## Installation
@@ -17,14 +17,16 @@ NA
 ## Usage
 
 
-The student can refer to this project when refactoring code or when making code to make sure they are adhering to best practices.
+The potential employer can browse the students body of works by clicking images that take them to the deployed applications. Additionally, 
+the potential employer can use links in the header and footer to navigate to sections of the portfolio, and to the student's resume, email, and 
+social media account.
 
 
 ## Application
 
 
-https://mtownsend509.github.io/Matthew-Townsend-s-Portfolio/
-https://github.com/mtownsend509/Matthew-Townsend-s-Portfolio/blob/34f05239997aefd071c11bef18bb93cb3138093e/Assets/images/Website%20Screenshot.PNG
+Website URL: https://mtownsend509.github.io/Matthew-Townsend-s-Portfolio/
+Website Screenshot: https://github.com/mtownsend509/Matthew-Townsend-s-Portfolio/blob/34f05239997aefd071c11bef18bb93cb3138093e/Assets/images/Website%20Screenshot.PNG
 
 
 ## Credits
