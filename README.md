@@ -24,7 +24,7 @@ The student can refer to this project when refactoring code or when making code 
 
 
 https://mtownsend509.github.io/Matthew-Townsend-s-Portfolio/
-![alt text](https://github.com/mtownsend509/Matthew-Townsend-s-Portfolio/Assets/images/Website Screenshot.PNG
+https://github.com/mtownsend509/Matthew-Townsend-s-Portfolio/blob/34f05239997aefd071c11bef18bb93cb3138093e/Assets/images/Website%20Screenshot.PNG
 
 
 ## Credits
