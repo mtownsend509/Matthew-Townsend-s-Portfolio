@@ -56,6 +56,10 @@ li {
     flex-wrap: nowrap;
 }
 
+.card:hover {
+    box-shadow: 30px 30px 15px black;
+}
+
 main img:hover,
 li:hover {
     cursor: pointer;
